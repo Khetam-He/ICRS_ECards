@@ -1,6 +1,6 @@
 body {
-  background-image: url("bc1.png");
-  background-repeat: repeat-y;
+  background-image: url("bc2.png");
+  background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
   position: relative;
